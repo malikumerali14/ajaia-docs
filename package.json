@@ -26,5 +26,8 @@
   },
   "devDependencies": {
     "mongodb-memory-server": "^11.3.0"
+  },
+  "overrides": {
+    "htmlparser2": "^8.0.2"
   }
 }
